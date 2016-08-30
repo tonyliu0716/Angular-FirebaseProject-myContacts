@@ -29,6 +29,7 @@
     padding: 0;
 }
 
+<<<<<<< HEAD
 .signup-panel {
     border-radius: 5px;
     border: 1px solid #ccc;
@@ -63,6 +64,8 @@
     margin-left: 10%;
 }
 
+=======
+>>>>>>> 4b66fd23d33f969ad0a37cf222d8ada1c8bfe560
 .panel {
     background: #f9f9f9;
     border: #ccc 1px solid;
